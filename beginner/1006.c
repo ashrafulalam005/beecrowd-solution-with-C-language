@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     double A,B,C;
