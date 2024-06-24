@@ -8,4 +8,3 @@ int main()
     printf("VOLUME = %.3lf\n", V);
     return 0;
 }
-
