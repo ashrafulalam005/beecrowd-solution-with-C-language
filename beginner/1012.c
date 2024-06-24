@@ -10,4 +10,3 @@ int main()
     printf("RETANGULO: %.3lf\n", (a*b));
     return 0;
 }
-
