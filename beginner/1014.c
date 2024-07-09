@@ -10,4 +10,3 @@ int main()
     printf("%.3lf km/l\n", x/y);
     return 0;
 }
-
