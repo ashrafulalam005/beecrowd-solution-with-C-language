@@ -11,3 +11,4 @@ int main()
     printf("%.4lf\n", distance);
     return 0;
 }
+
