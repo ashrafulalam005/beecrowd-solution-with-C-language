@@ -1,2 +1,2 @@
-# beecrowd-solution-with-C-language 
+# Beecrowd-solution-with-C-language 
 
